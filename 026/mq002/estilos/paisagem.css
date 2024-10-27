@@ -3,4 +3,7 @@
 
 body {
     background: url(../Imagens/cev-landscape.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: contain;
 }
